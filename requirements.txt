@@ -1,0 +1,10 @@
+langchain
+openai
+duckduckgo-search
+beautifulsoup4
+requests
+python-dotenv
+langserve
+uvicorn
+fastapi
+sse_starlette
