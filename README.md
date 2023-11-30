@@ -8,7 +8,7 @@ This assistant is built following the guidelines provided in [this tutorial](htt
    Begin by cloning the repository to your local machine. Use the following command in your terminal:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/insourcedata/assistant.git
     ```
 
 2. **Navigate to the Repository**
